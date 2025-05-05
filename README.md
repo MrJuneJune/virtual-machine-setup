@@ -1,4 +1,7 @@
-#Why virtual machine?
+It is probably better to setup docker container or WSL if you are using window computer instead of using VM box since docker is easier to setup and/or WSL is integrated nicely with windows.
+
+---
+# Why virtual machine?
 
 Most people don't have an access to a computer with Linux distro such as mac or ubuntu so using virtual machine to start learning coding is recommended.
 
